@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server",
-        host: "nodev4.fypmoon.org",
-        port: 1118,
-        password: "fypmoon.org",
+        name: "ll.sleepyinsomniac.eu.org",
+        host: "ll.sleepyinsomniac.eu.org",
+        port: 80,
+        password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
